@@ -11,6 +11,8 @@ utilisés par de vrais utilisateurs et traitent de vraies commandes.
 ## 🚀 Projets
 
 ### 📱 PharmaScan — santé du quotidien
+[💻 Code](https://github.com/egnonisse/PharmaScan) · **Flutter · Firebase · ML Kit**
+
 Application **Flutter** qui répond à deux besoins concrets en Côte d'Ivoire :
 - **pharmacies de garde** à jour, consultables **hors ligne**
 - **comparateur de prix** des médicaments, alimenté par les reçus scannés par la communauté
@@ -19,6 +21,8 @@ Application **Flutter** qui répond à deux besoins concrets en Côte d'Ivoire :
 Cloud Functions, FCM), mode hors ligne, publication Google Play.
 
 ### 💬 BotWhatsApp — vente conversationnelle
+[💻 Code](https://github.com/egnonisse/botwhatsapp) · **Python · FastAPI · LLM**
+
 Bot **WhatsApp** connecté à l'API WhatsApp Cloud, qui vend réellement : il qualifie le
 besoin, recommande des produits d'un catalogue de **~1 900 références** (WooCommerce),
 gère les objections et crée la commande.
@@ -28,6 +32,8 @@ anti-hallucination** (vérification des prix, liens et noms par le code, pas par
 synchronisation de catalogue, supervision humaine via dashboard, déploiement VPS + systemd.
 
 ### 🏬 SellerCenter — marketplace multi-vendeurs
+[💻 Code](https://github.com/egnonisse/sellercenter) · **Next.js · Prisma · PostgreSQL**
+
 Plateforme type place de marché : gestion des vendeurs, contrôle qualité des fiches,
 **commissions configurables** par catégorie, génération de relevés financiers.
 
@@ -35,8 +41,20 @@ Plateforme type place de marché : gestion des vendeurs, contrôle qualité des 
 permissions par ressource), webhooks signés, tâches planifiées.
 
 ### ⌚ Aiwatch — e-commerce (aiwatch.ci)
+[🌐 aiwatch.ci](https://aiwatch.ci) · **PHP · WordPress · WooCommerce**
+
 Boutique en ligne complète : catalogue, SEO, automatisation email et réseaux sociaux,
 extensions WordPress sur mesure.
+
+### 📊 BetclicAgent — veille de cotes sportives
+[💻 Code](https://github.com/egnonisse/betclic-agent) · **Python · API · CLI**
+
+Agent de veille qui collecte les cotes du marché ivoirien, calcule les marges des marchés
+et alerte sur les opportunités anormales.
+
+*Ce que ça démontre :* consommation d'une API gRPC-web non documentée, **rigueur
+méthodologique** (seuls les marchés exhaustifs sont analysés — les autres produisent des
+chiffres absurdes), tests unitaires, séparation stricte entre analyse et action.
 
 ---
 
