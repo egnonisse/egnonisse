@@ -46,6 +46,18 @@ permissions par ressource), webhooks signés, tâches planifiées.
 Boutique en ligne complète : catalogue, SEO, automatisation email et réseaux sociaux,
 extensions WordPress sur mesure.
 
+### 🧩 Plugins WordPress — 9 extensions en production
+[💻 Code](https://github.com/egnonisse/wordpress-plugins) · **PHP · WordPress · WooCommerce**
+
+Collection de **9 plugins** développés et exploités sur des boutiques réelles
+(**~21 400 lignes**), dont une **suite d'emailing complète** (11 600 lignes : contacts,
+listes, campagnes, relances automatiques) et un **enrichisseur de fiches produit par IA**
+avec garde-fous anti-hallucination.
+
+*Ce que ça démontre :* maîtrise de l'écosystème WordPress — `wp_cron`, Settings API,
+nonces et capacités, requêtes préparées, tables dédiées, écrans d'administration
+sur mesure, intégrations d'API tierces.
+
 ### 📊 BetclicAgent — veille de cotes sportives
 [💻 Code](https://github.com/egnonisse/betclic-agent) · **Python · API · CLI**
 
