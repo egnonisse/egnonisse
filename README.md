@@ -1,4 +1,4 @@
-# Bonjour, je suis Ouattara Anzoumana 👋
+# Bonjour, je suis Egnonisse Léonard 👋
 
 **Je construis des produits qui tournent en production, pas des prototypes.**
 
@@ -64,7 +64,8 @@ extensions WordPress sur mesure.
 ## 📬 Me contacter
 
 - **Site** : [softhubapp.com](https://softhubapp.com)
-- **GitHub** : [github.com/egnonisse](https://github.com/egnonisse)
+- **Email** : *(à compléter)*
+- **LinkedIn** : *(à compléter)*
 
 ---
 
